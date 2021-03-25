@@ -1,2 +1,3 @@
 # Design-and-verification-of-the-driven-shaft-of-an-electric-drill
-Design of a driven shaft and of its main components for an electric drill application, focused on the definition of critical frequencies work conditions and avoidance of resonance issues.
+Design of a driven shaft and of its main components for an electric drill application, focused on the definition of critical frequencies work conditions and avoidance of resonance issues. The results and the design choices are reported in the second part of the pdf. The whole project was realised as an assignment of Mechanical Design & Machine Elements course at University of Trento, in collaboration with Michele Denicolò.
+The scripts for the evaluation of the stresses and mechanical vibrations over the shaft are reported in the folder SHAFT EVALUATION.
